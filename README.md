@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Shivam Soni, a Software Developer.
+Hi, I'm Shivam Soni, Associate Software Developer at Nagarro href="https://www.linkedin.com/in/void2311/".
 
 
  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
