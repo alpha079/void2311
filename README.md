@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Shivam Soni, Associate Software Developer at Nagarro Software Pvt Ltd.
+Hi, I'm Shivam Soni, Software Developer at Accolite Digital Pvt Ltd.
 
 
  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on React Three Fiber.
+- 🔭 I’m currently working on .NET Framework.
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me anything, I am happy to help
