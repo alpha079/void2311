@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React Three Fiber.
+🔭 I’m currently working on my problem solving skills.
+- 🔭 I’m currently working on Enterprise Applications used for Compliance Management.
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me anything, I am happy to help
